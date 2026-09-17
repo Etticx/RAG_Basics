@@ -1,4 +1,4 @@
-"# RAG_Basics" 
+## RAG_Basics 
 About this repo, it is for me to learn and understand Retrieval-Augmented Generation (RAG) pipelines
 
 ## Objectives
