@@ -1,0 +1,11 @@
+#for security
+.env
+#for personal data
+data/Thesis.pdf
+#no need to give virtual envir
+venv/
+#too big for github
+chroma_db/
+#chache file compeltely unnecessary
+__pycache__/
+*.pyc
