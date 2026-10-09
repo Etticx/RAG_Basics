@@ -1,0 +1,10 @@
+setuptools
+python-dotenv
+ragas==0.4.3
+# Ragas imports ChatVertexAI, which was removed in community 0.4.2.
+# Install these ONLY in .eval-venv; the baseline RAG uses its original venv.
+langchain-community==0.4.1
+langchain-openai>=1.6.2
+google-genai
+openai
+httpx

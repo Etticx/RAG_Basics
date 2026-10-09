@@ -9,3 +9,5 @@ chroma_db/
 #chache file compeltely unnecessary
 __pycache__/
 *.pyc
+eval_outputs/
+.eval-venv/
