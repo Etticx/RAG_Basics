@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+chromadb
+pypdf
+tiktoken
+sentence-transformers
